@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-byte-coder&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-byte-coder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/priyanshu_26_11" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu_26_11?logo=twitter&style=for-the-badge" alt="priyanshu_26_11" /></a> </p>
-
 - 🌱 I’m currently learning **Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eta-gilt-84.vercel.app/](https://portfolio-eta-gilt-84.vercel.app/)
