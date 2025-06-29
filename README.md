@@ -47,9 +47,9 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-sharma-57122216a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-  <a href="https://priyanshusharma44.github.io/profile"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Me‑Here‑D14836?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/priyanshu-doshi-21a54230a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="https://portfolio-eta-gilt-84.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome"></a>
+  <a href="mailto:doshipriyanshu3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Me‑Here‑D14836?logo=gmail"></a>
 </p>
 
 ---
