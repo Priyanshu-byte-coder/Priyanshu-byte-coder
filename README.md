@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **doshipriyanshu3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18eHUM8YLI81k1-NqqG_EEXzZWkJOnISU/view?usp=sharing](https://drive.google.com/file/d/18eHUM8YLI81k1-NqqG_EEXzZWkJOnISU/view?usp=sharing)
-
 - ⚡ Fun fact **I type faster than I speak (thank you, Monkeytype)**
 
 <h3 align="left">Connect with me:</h3>
