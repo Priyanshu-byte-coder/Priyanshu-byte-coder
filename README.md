@@ -6,7 +6,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Priyanshu-byte-coder">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=BTech+AI+%26+ML+%40+Nirma+University;Self-Supervised+Learning+%7C+Graph+Neural+Networks+%7C+Explainable+AI;Building+Intelligent+Systems+That+Run+Anywhere+%E2%80%94+Even+on+a+Raspberry+Pi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=BTech+AI+%26+ML+%40+Nirma+University;Neural+Networks+%7C+GNNs+%7C+XAI;Building+AI+Systems+That+Run+Anywhere" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@
 ```yaml
 name       : Priyanshu Doshi
 location   : India
-education  : BTech in Artificial Intelligence & Machine Learning, Nirma University
+education  : BTech in AI & ML, Nirma University
 
 domains:
   - Self-Supervised Learning & Fault Detection
@@ -42,12 +42,15 @@ domains:
   - Facial Emotion Recognition & Wellbeing AI
   - Content-Based Recommendation Systems
   - Explainable AI & Digital Twins
-  - Full-Stack Web Development (React, Next.js)
+  - Full-Stack Web Development
 
 currently:
-  learning  : [ "Advanced PyTorch", "Transformers", "Generative AI" ]
-  building  : [ "Research papers on SSL fault detection", "Offline wellbeing AI systems" ]
+  learning  : [ "Advanced PyTorch", "Transformers", "GenAI" ]
+  building  : [ "SSL fault detection research", "Offline AI systems" ]
 ```
+
+
+
 
 <!-- ═══════════════════════════════ DIVIDER ═══════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -69,23 +72,23 @@ currently:
 <hr/>
 
 **[Robotic Arm Fault Detection](https://github.com/Priyanshu-byte-coder/CatBoost_Anomaly_Detection_implementation)**
-Self-supervised learning for robotic arm fault detection. Benchmarked against SVM, Logistic Regression, Naive Bayes, CatBoost, and QDA using the CASPER dataset with full statistical analysis.
+Self-supervised learning for robotic arm fault detection using the CASPER dataset. Benchmarked against SVM, Logistic Regression, Naive Bayes, CatBoost, and QDA with full statistical analysis across 10 runs.
 `Python` `Self-Supervised Learning` `CatBoost` `scikit-learn`
 
 **[Fraudulent Review Detection](https://github.com/Priyanshu-byte-coder/ml_innovative)**
-Heterogeneous Graph Neural Network using GraphSAGE + HeteroConv with Focal Loss and hard example mining. Includes a web app for real-time review analysis with 121K+ test samples.
+Heterogeneous GNN using GraphSAGE and HeteroConv with Focal Loss, hard example mining, and burst detection. Includes web app for real-time review analysis on 121K+ test samples.
 `PyTorch` `PyG` `GNN` `GraphSAGE`
 
-**[Maya — Wellbeing AI Companion](https://github.com/Priyanshu-byte-coder/modulino)**
-100% offline AI companion running on Raspberry Pi 5. Fuses facial emotion recognition (FER), VADER sentiment, and Microsoft Phi-3 Mini (via Ollama) with ChromaDB RAG memory for empathetic conversations.
+**[Maya — Wellbeing AI](https://github.com/Priyanshu-byte-coder/modulino)**
+100% offline AI companion on Raspberry Pi 5. Fuses facial emotion recognition, VADER sentiment, and Microsoft Phi-3 Mini via Ollama with ChromaDB RAG memory for empathetic conversations.
 `Python` `Ollama` `FER` `ChromaDB` `Flask`
 
-**[Movie Recommender System](https://github.com/Priyanshu-byte-coder/movie-recommendor-showcase)**
-Content-based filtering using cosine similarity with real-time poster fetching via TMDb API. Deployed on Streamlit Cloud with precomputed similarity matrices.
+**[Movie Recommender](https://github.com/Priyanshu-byte-coder/movie-recommendor-showcase)**
+Content-based filtering using cosine similarity with real-time poster fetching via TMDb API. Deployed on Streamlit Cloud.
 `Python` `Streamlit` `scikit-learn` `TMDb API`
 
-**[PyTorch Learning Journey](https://github.com/Priyanshu-byte-coder/pytorch_learing)**
-Structured notebooks covering PyTorch fundamentals, tensor operations, autograd, neural network building, and deep learning experiments.
+**[PyTorch Learning](https://github.com/Priyanshu-byte-coder/pytorch_learing)**
+Structured notebooks covering PyTorch fundamentals — tensors, autograd, neural network building, and deep learning experiments.
 `PyTorch` `Jupyter` `Deep Learning`
 
 </td>
@@ -95,16 +98,16 @@ Structured notebooks covering PyTorch fundamentals, tensor operations, autograd,
 
 <hr/>
 
-**[LUMIN.AI — Solar Plant Risk Monitor](https://github.com/Priyanshu-byte-coder/Hackamined_2026)**
-Full-stack platform predicting solar inverter failures using XGBoost, Predictive Digital Twins, SHAP-based Explainable AI, and Groq Llama 3.3 70B for plain-English explanations. Features LangSmith observability and AWS RDS.
+**[LUMIN.AI — Solar Risk Monitor](https://github.com/Priyanshu-byte-coder/Hackamined_2026)**
+Full-stack platform predicting solar inverter failures using XGBoost, Predictive Digital Twins, SHAP-based XAI, and Groq Llama 3.3 70B for plain-English explanations. AWS RDS + LangSmith observability.
 `Next.js` `XGBoost` `SHAP` `LangChain` `FastAPI`
 
 **[MZHub — AI Spiritual Platform](https://github.com/Priyanshu-byte-coder/mzhub)**
-Marketing website for an AI-powered spiritual platform connecting temples, ashrams, churches, and mosques. Built with Next.js App Router, featuring glassmorphism UI and dark theme.
+Marketing website for an AI-powered spiritual platform connecting temples, ashrams, churches, and mosques. Built with Next.js App Router, glassmorphism UI and dark theme.
 `Next.js` `TypeScript` `Framer Motion`
 
 **[Secure Pharmacy System](https://github.com/Priyanshu-byte-coder/secure_pharmacy_project)**
-C++ prescription management system preventing fake prescriptions using role-based access control (Patient/Doctor/Chemist), OTC classification, full audit trails, and OOP design patterns.
+C++ prescription management preventing fake prescriptions with role-based access control (Patient/Doctor/Chemist), OTC classification, and audit trails.
 `C++` `OOP` `File Handling`
 
 **[Voice Bot](https://github.com/Priyanshu-byte-coder/voice_bot)**
@@ -112,11 +115,11 @@ AI-powered voice interaction application built with Google AI Studio for natural
 `Python` `Google AI Studio`
 
 **[GDG Farmer Solution](https://github.com/Priyanshu-byte-coder/gdg_solution_challenge_farmer)**
-Google Developer Groups Solution Challenge project addressing agricultural challenges through technology-driven solutions.
+Google Developer Groups Solution Challenge addressing agricultural challenges through technology.
 `GDG` `Solution Challenge`
 
-**[Portfolio Website](https://github.com/Priyanshu-byte-coder/Portfolio)**
-Personal portfolio built with React + TypeScript + Vite featuring dark theme, creative animations, and responsive design.
+**[Portfolio](https://github.com/Priyanshu-byte-coder/Portfolio)**
+Personal portfolio with dark theme, creative animations, and responsive design.
 `React` `TypeScript` `Vite`
 
 </td>
@@ -134,7 +137,7 @@ Personal portfolio built with React + TypeScript + Vite featuring dark theme, cr
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="20"> &nbsp;AI / ML & Data Science
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="20"> &nbsp;AI / ML & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -147,7 +150,7 @@ Personal portfolio built with React + TypeScript + Vite featuring dark theme, cr
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20"> &nbsp;Languages & Frameworks
+### <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="20"> &nbsp;Languages & Frameworks
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -159,7 +162,7 @@ Personal portfolio built with React + TypeScript + Vite featuring dark theme, cr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="20"> &nbsp;Tools & Platforms
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> &nbsp;Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -183,22 +186,14 @@ Personal portfolio built with React + TypeScript + Vite featuring dark theme, cr
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=priyanshu-byte-coder&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=priyanshu-byte-coder&show_icons=true&hide_title=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu-byte-coder&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-byte-coder&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-byte-coder&layout=compact&hide_title=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-byte-coder&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
-</picture>
+<a href="https://github.com/Priyanshu-byte-coder">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-byte-coder&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
 <a href="https://github.com/Priyanshu-byte-coder">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-byte-coder&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-byte-coder&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak Stats" width="60%"/>
 </a>
 
 <br/><br/>
@@ -253,7 +248,7 @@ Personal portfolio built with React + TypeScript + Vite featuring dark theme, cr
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="24"> &nbsp;Contribution Snake
+## <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="24"> &nbsp;Contribution Snake
 
 <br/>
 
@@ -265,71 +260,6 @@ Personal portfolio built with React + TypeScript + Vite featuring dark theme, cr
 
 </div>
 
-<br/>
-
-<details>
-<summary><b>How to enable the Snake Animation (step-by-step)</b></summary>
-
-<br/>
-
-### Step 1 — Create the workflow file
-
-In your `Priyanshu-byte-coder` repository, create the file:
-
-```
-.github/workflows/snake.yml
-```
-
-### Step 2 — Paste this workflow
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"       # runs once every 24 hours
-  workflow_dispatch:            # allows manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake Game from GitHub Contributions
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### Step 3 — Enable GitHub Actions permissions
-
-1. Go to **Settings** > **Actions** > **General** in your `Priyanshu-byte-coder` repo
-2. Under **Workflow permissions**, select **Read and write permissions**
-3. Click **Save**
-
-### Step 4 — Run the workflow manually
-
-1. Go to the **Actions** tab in your repo
-2. Click **Generate Snake** on the left sidebar
-3. Click **Run workflow** > **Run workflow**
-4. Wait ~30 seconds for it to complete
-
-### Step 5 — Verify
-
-After the workflow runs, an `output` branch will be created with the SVGs. The snake animation in this README will automatically start working.
-
-</details>
-
 <!-- ═══════════════════════════════ DIVIDER ═══════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -337,7 +267,7 @@ After the workflow runs, an `output` branch will be created with the SVGs. The s
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="24"> &nbsp;Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"> &nbsp;Connect
 
 <br/>
 
@@ -371,13 +301,20 @@ After the workflow runs, an `output` branch will be created with the SVGs. The s
 
 </div>
 
-<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
+<br/>
+
+<!-- ═══════════════════════════════ RANDOM QUOTE ═══════════════════════════════ -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
+</div>
 
 <br/>
+
+<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="16">
-  <sub>&nbsp;Built with curiosity — <a href="https://github.com/Priyanshu-byte-coder">Priyanshu Doshi</a></sub>
+  <sub>Built with curiosity — <a href="https://github.com/Priyanshu-byte-coder">Priyanshu Doshi</a></sub>
 </div>
