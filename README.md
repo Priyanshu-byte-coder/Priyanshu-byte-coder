@@ -19,6 +19,7 @@ Building intelligent systems — from edge AI on Raspberry Pi to production ML p
 ![LeetCode](https://img.shields.io/badge/LeetCode-200+_Solved-orange?style=for-the-badge)
 ![MECup](https://img.shields.io/badge/MECup-National_Rank_4-red?style=for-the-badge)
 ![Reliance](https://img.shields.io/badge/Reliance_Foundation-UG_Scholar-purple?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=Priyanshu-byte-coder&color=blue)
 
 </div>
 
