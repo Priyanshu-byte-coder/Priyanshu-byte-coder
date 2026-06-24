@@ -1,8 +1,12 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=AI%2FML+Engineer+%7C+Full-Stack+Dev+%7C+IEEE+Researcher" alt="Typing SVG" /></a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500" />
 
-**Building intelligent systems — from edge AI on Raspberry Pi to production ML pipelines.**
+## Hey, I'm Priyanshu Doshi
+
+**AI/ML Engineer | Full-Stack Developer | IEEE Published Researcher**
+
+Building intelligent systems — from edge AI on Raspberry Pi to production ML pipelines.
 
 </div>
 
@@ -75,17 +79,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack | Highlight |
-|:--------|:-----------|:------|:----------|
-| [**LUMIN.AI**](https://github.com/Priyanshu-byte-coder) | Solar plant inverter risk monitoring — 4 microservices | XGBoost, SHAP, Groq LLM, RAG, Next.js | 1st Place HackAMined (2300+ participants) |
-| [**SOLV.ai**](https://github.com/Priyanshu-byte-coder) | AI voice complaint system — 5 microservices | DistilBERT, Faster-Whisper, Groq, Next.js 16 | 10-model LLM ablation, 96.9% accuracy |
-| [**Spectra Scan**](https://github.com/Mitanshp5/MECup) | Industrial paint defect detection on CNC gantry | DINOv2, OpenVINO, Electron, FastAPI | National Rank 4 — MECup 6th Edition |
-| [**bloom**](https://github.com/Priyanshu-byte-coder/bloom) | Privacy-first mental health AI companion | Groq LLM, RAG, pgvector, Supabase, Next.js | 4-layer crisis detection, 40+ keyword scan |
-
----
-
 ### Research
 
 <table>
@@ -98,16 +91,6 @@
 </td>
 </tr>
 </table>
-
----
-
-### Achievements
-
-- **1st Place** — Aubergine Track, HackAMined National Hackathon (400+ teams, 2300+ participants)
-- **National Rank 4** — Mitsubishi Electric Cup, 6th Edition
-- **Reliance Foundation** Undergraduate Scholar 2025
-- **1st Place** — CodeAdda Premier League (200+ participants)
-- **99.1 Percentile** — Class XII, Rank 160 Gujarat
 
 ---
 
