@@ -71,7 +71,10 @@ Building intelligent systems — from edge AI on Raspberry Pi to production ML p
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Priyanshu-byte-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyanshu-byte-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-byte-coder&theme=tokyonight&hide_border=true" width="600" />
 
@@ -83,11 +86,11 @@ Building intelligent systems — from edge AI on Raspberry Pi to production ML p
 
 <table>
 <tr>
-<td width="80"><img src="https://img.shields.io/badge/IEEE-Sensors_Letters-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></td>
+<td width="120"><img src="https://img.shields.io/badge/IEEE-Sensors_Letters-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></td>
 <td>
-<strong>Robotic Arm Fault Detection using CatBoost Classifier</strong> (2026)<br/>
-97.20% accuracy | F1: 0.9718 | Outperformed SVM, LR, NB, QDA baselines<br/>
-<a href="https://ieeexplore.ieee.org/document/11359621">Read Paper</a>
+<h3>Robotic Arm Fault Detection using CatBoost Classifier <sub>(2026)</sub></h3>
+<h4>97.20% accuracy &nbsp;|&nbsp; F1: 0.9718 &nbsp;|&nbsp; Outperformed SVM, LR, NB, QDA baselines</h4>
+<a href="https://ieeexplore.ieee.org/document/11359621"><img src="https://img.shields.io/badge/Read_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
 </td>
 </tr>
 </table>
@@ -96,8 +99,8 @@ Building intelligent systems — from edge AI on Raspberry Pi to production ML p
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-doshi-21a54230a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-gilt-84.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iampriyanshudoshi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://priyanshudoshi.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doshipriyanshu3@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Priyanshu_26_11)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Priyanshu_doshi/)
