@@ -14,7 +14,7 @@ Building intelligent systems — from edge AI on Raspberry Pi to production ML p
 
 <div align="center">
 
-![CGPA](https://img.shields.io/badge/CGPA-8.85%2F10-blue?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.65%2F10-blue?style=for-the-badge)
 ![IEEE](https://img.shields.io/badge/IEEE-1_Publication-green?style=for-the-badge)
 ![LeetCode](https://img.shields.io/badge/LeetCode-200+_Solved-orange?style=for-the-badge)
 ![MECup](https://img.shields.io/badge/MECup-National_Rank_4-red?style=for-the-badge)
