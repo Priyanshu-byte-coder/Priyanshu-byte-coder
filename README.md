@@ -109,9 +109,9 @@ Building intelligent systems — from edge AI on Raspberry Pi to production ML p
 </div>
 
 <div align="center">
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-byte-coder/Priyanshu-byte-coder/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-byte-coder/Priyanshu-byte-coder/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Priyanshu-byte-coder/Priyanshu-byte-coder/output/github-snake-dark.svg" />
-</picture>
+</picture> -->
 </div>
