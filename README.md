@@ -2,7 +2,7 @@
 
 # Priyanshu Doshi
 
-Building intelligent systems — from edge AI on a Raspberry Pi to production ML pipelines.
+Building intelligent systems ,from edge AI on a Raspberry Pi to production ML pipelines.
 
 <samp>
 <a href="https://priyanshudoshi.netlify.app">portfolio</a> ·
