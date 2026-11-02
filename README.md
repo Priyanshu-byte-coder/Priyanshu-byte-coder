@@ -33,6 +33,11 @@
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Priyanshu-byte-coder&show_icons=true&hide_border=true&bg_color=00000000&title_color=3fb950&icon_color=3fb950&text_color=8b949e&count_private=true" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyanshu-byte-coder&layout=compact&hide_border=true&bg_color=00000000&title_color=3fb950&text_color=8b949e&langs_count=8" height="165" />
 
+<br/>
+
+[![DevTrack rank](https://devtrack.live/api/badge/rank?user=Priyanshu-byte-coder)](https://devtrack.live/u/priyanshu-byte-coder?utm_source=github&utm_medium=readme&utm_campaign=rank-badge)
+
+
 </div>
 
 <br/>
